@@ -1,6 +1,7 @@
 # JSON Form Builder with Supabase
 
 This idea goes back 8 years ago for me! https://github.com/alnutile/webforms
+https://youtu.be/rTeX6EeHN_M?si=-xbQemUxA_c7JHJS
 
 Recently, I started building a simple editor to let users add content directly to their tables. That’s when I realized: why not leverage a structured JSON approach? With this idea, we can store a JSON configuration that represents both the form and its data. When a user visits a page in the UI, the app reads this JSON to render the appropriate form and interact with the underlying tables.
 
